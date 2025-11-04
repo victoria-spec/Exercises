@@ -1,2 +1,2 @@
 # Windows_Admin
-This repository includes material related to the windows administration
+This repository includes scripts, docuumentation regarding windows administration and automation
